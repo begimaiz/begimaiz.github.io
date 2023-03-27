@@ -1,5 +1,0 @@
-<!-- #######  HEY, I AM THE SOURCE EDITOR! #########-->
-<h1 style="color: #5e9ca0;">Сайт в разработке!</h1>
-<p>Medical Clinic NIMSI</p>
-<p>Справки по телефону 0999944444</p>
-<p><strong>&nbsp;</strong></p>
